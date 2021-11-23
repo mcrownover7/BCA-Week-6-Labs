@@ -1,0 +1,1 @@
+In this lab we will be creating a server that serves several static HTML files in a multi-page web app. We will be looking at how we can keep our server secure, and focusing on how route matching works.
