@@ -1,0 +1,30 @@
+body {
+  background-color: beige;
+}
+
+.main-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+form {
+  display: flex;
+  flex-direction: row;
+}
+
+.user-input {
+  margin: 7.5px;
+  text-align: center;
+}
+
+.title {
+  font-size: 3vw;
+}
+
+.display-text {
+  font-size: 2vw;
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "number": 1,
+    "name": "Alisson Becker",
+    "position": "Goalkeeper",
+    "starter": true
+  },
+  {
+    "number": 4,
+    "name": "Virgil van Dijk",
+    "position": "Defender",
+    "starter": true
+  },
+  {
+    "number": 5,
+    "name": "Ibrahima Konate",
+    "position": "Defender",
+    "starter": true
+  },
+  {
+    "number": 66,
+    "name": "Trent Alexander-Arnold",
+    "position": "Defender",
+    "starter": true
+  },
+  {
+    "number": 26,
+    "name": "Andy Robertson",
+    "position": "Defender",
+    "starter": true
+  },
+  {
+    "number": 3,
+    "name": "Fabinho",
+    "position": "Midfielder",
+    "starter": true
+  },
+  {
+    "number": 6,
+    "name": "Thiago Alcantara",
+    "position": "Midfielder",
+    "starter": true
+  },
+  {
+    "number": 14,
+    "name": "Jordan Henderson",
+    "position": "Midfielder",
+    "starter": true
+  },
+  {
+    "number": 9,
+    "name": "Roberto Firmino",
+    "position": "Forward",
+    "starter": true
+  },
+  {
+    "number": 10,
+    "name": "Sadio Mane",
+    "position": "Forward",
+    "starter": true
+  },
+  {
+    "number": 11,
+    "name": "Mohamed Salah",
+    "position": "Forward",
+    "starter": true
+  },
+  {
+    "number": 62,
+    "name": "Caoimhin Kelleher",
+    "position": "Goalkeeper",
+    "starter": false
+  }
+]
