@@ -1,0 +1,3 @@
+In this lab we will be creating a JSON file which we will be using as an api endpoint in a future lab. Our JSON object will hold some data which represents the "correct" answers to a series of questions we will be asking on the client side. We will also be playing around with another JSON object, and looking at ways we can procedurally generate JSON on the server
+
+For this lab we will go back to the json-server directory. Currently it should contain one subdirectory that contains two JSON files, but we only care about the answers.js file in this lab. We are going to extend this so that there is a front end that asks the user some questions, accepts answers from them, and greets them differently based on if the answers match up with the values stored in your JSON.
