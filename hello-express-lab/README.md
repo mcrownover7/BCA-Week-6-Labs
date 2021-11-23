@@ -1,0 +1,1 @@
+In this lab you will set up your first server in Express and deploy it to Heroku, where it will be visible to everyone on the Internet.
