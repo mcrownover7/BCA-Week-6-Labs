@@ -1,0 +1,1 @@
+In this lab we are going to create a server that allows us to pull information from a filesystem and set the information we have gathered into HTML and JSON endpoints. Our end product will be a blog style web application that includes a home page, a list of articles, a search function, the ability to create an article, and the ability to publish a new one.
